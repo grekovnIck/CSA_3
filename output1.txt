@@ -1,0 +1,22 @@
+Count of elements - 10
+Bus:   fuel tank capacity: 743; fuel consumption: 712; max passengers: 93; max distance: 1
+Car:   fuel tank capacity: 433; fuel consumption: 570; max speed: 699; max distance: 0
+Bus:   fuel tank capacity: 37; fuel consumption: 482; max passengers: 918; max distance: 0
+Bus:   fuel tank capacity: 597; fuel consumption: 232; max passengers: 681; max distance: 2
+Bus:   fuel tank capacity: 799; fuel consumption: 538; max passengers: 97; max distance: 1
+Truck: fuel tank capacity: 322; fuel consumption: 329; lifting capacity: 0; max distance: 0
+Truck: fuel tank capacity: 83; fuel consumption: 934; lifting capacity: 0; max distance: 0
+Bus:   fuel tank capacity: 275; fuel consumption: 540; max passengers: 494; max distance: 0
+Bus:   fuel tank capacity: 245; fuel consumption: 605; max passengers: 614; max distance: 0
+Car:   fuel tank capacity: 417; fuel consumption: 281; max speed: 771; max distance: 1
+Sorted
+Bus:   fuel tank capacity: 245; fuel consumption: 605; max passengers: 614; max distance: 0
+Bus:   fuel tank capacity: 275; fuel consumption: 540; max passengers: 494; max distance: 0
+Truck: fuel tank capacity: 83; fuel consumption: 934; lifting capacity: 0; max distance: 0
+Truck: fuel tank capacity: 322; fuel consumption: 329; lifting capacity: 0; max distance: 0
+Bus:   fuel tank capacity: 37; fuel consumption: 482; max passengers: 918; max distance: 0
+Car:   fuel tank capacity: 433; fuel consumption: 570; max speed: 699; max distance: 0
+Car:   fuel tank capacity: 417; fuel consumption: 281; max speed: 771; max distance: 1
+Bus:   fuel tank capacity: 799; fuel consumption: 538; max passengers: 97; max distance: 1
+Bus:   fuel tank capacity: 743; fuel consumption: 712; max passengers: 93; max distance: 1
+Bus:   fuel tank capacity: 597; fuel consumption: 232; max passengers: 681; max distance: 2
